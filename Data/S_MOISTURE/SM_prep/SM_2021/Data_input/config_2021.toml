@@ -1,0 +1,39 @@
+#Files to read in and process
+Filename = ["z122.csv",
+            "z123.csv",
+            "z129.csv",
+            "TDR.csv"]
+
+Tree = ["27",
+        "51",
+        "50",
+        "49"]
+
+#the following configuration is to have the third element of the tuple as a dictionary, 
+#should have same order as lists above
+[[sensor_type]] #z122/DF27US
+Type = 3
+Site = 1
+[[sensor_type]] #z123/ES51US
+Type = 3
+Site = 1 
+[[sensor_type]] #z129/ES50LS
+Type = 3
+Site = 2 
+[[sensor_type]] #TDR/DF49GT
+Type = 1
+Site = 3
+
+
+#___________________________________________________________________________________________
+
+#abbreviations for names of columns in csv files
+[column_names]
+zentra_cols_3 = ['Date','WC1','T1','EC1','WC2','T2','EC2','WC3','T3','EC3','BAT%','BATV']#WC: water content (m3/m3), T: temperature (C), EC: Saturation Extract (mS/cm),Battery percent (%), Battery Voltage(mV)
+zentra_cols_2 = ['Date','WC1','T1','EC1','WC2','T2','EC2','BAT%','BATV']
+tdr_cols_1 = ['Date','WC1','WC2','WC3','R','events','power']
+
+[dates]
+initial_date = '2021-05-01 00:00:00'
+final_date = '2021-10-19 00:00:00'
+

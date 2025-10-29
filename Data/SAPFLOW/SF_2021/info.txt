@@ -1,0 +1,5 @@
+The data is incomplete, after processing and correcting for baseline we 
+we are using a linear regression too, same method as: 
+https://github.com/Yuanchao-Xu/hyfo/blob/master/R/fillGap.R
+
+or function is called fill_ts.py

@@ -1,0 +1,84 @@
+def baseline_raw (path_input,ini_date,soil,SD,k,SF): #path to input files so we can read env, inital date for field season, sapwood depth to see if we should correct inner measurement 
+    #1. Read Environmental data 
+    ENV_cols=['Rain','Temp','RH','NR','NetRad(MJ/m2h)','VPD','PET'] #units:Rain(mm),Temp(C),RH(%),NetRad(W/m2),NetRad(MJ/m2h),VPD(kPa),PET(mm/h)
+    ENV=pd.read_csv(path_input+'ENVIRONMENTAL_tidy.csv',header = None, skiprows=1, names=ENV_cols,engine='python',encoding = "ISO-8859-1")
+    ENV.index = pd.to_datetime(ENV.index,errors='coerce')
+    ENV=ENV.drop(columns=['Temp','RH','NetRad(MJ/m2h)']).loc['2021-05-01 00:30:00':]
+    env=ENV.copy()
+    #1.1 Read soil data 
+    soil_cols=['S1','S2','S3']
+    soil_norm=['S1_norm','S2_norm','S3_norm']
+
+    #1.1.1 SOIL MOISTURE SM (m3/m3)
+    sm_file=soil+'.csv'
+    SM=pd.read_csv(path_input+sm_file,header = None, skiprows=1, names=soil_cols,engine='python',encoding = "ISO-8859-1")
+    SM.index = pd.to_datetime(SM.index,errors='coerce')
+    SM=SM.asfreq(freq='30 min',method='ffill')
+    SM['S_avg']=SM.mean(axis=1).values.copy()
+    sm=SM.copy()   
+    #1.1.2 SOIL MOISTURE NORM
+    #soil_file_n= soil + '_normalized.csv'
+    #soil_norm=pd.read_csv(path_input+soil_file_n,header = None, skiprows=1, names=soil_cols,engine='python',encoding = "ISO-8859-1")
+    #soil_norm.index = pd.to_datetime(soil_norm.index,errors='coerce')
+    #soil_norm=soil_norm.asfreq(freq='30 min',method='ffill')
+    #soil_norm['S_avg']=soil_norm.mean(axis=1).values.copy()
+    #sm_n=soil_norm.copy()
+
+
+
+    #2. Filter, round and resample original sf data. 
+    sf=SF.copy().loc[ini_date:].filter(['UO','UI','MaxTdO','MaxTuO','RiseTdO','RiseTuO','RatioOut','MaxTdI','MaxTuI','RiseTdI','RiseTuI','RatioIn'])# We keep only the HPV calculated by ICT UO and UI (k/x*ln(ratio)*3600 k=0.00025 x=0.6 units=cm/h) and the RAW values to recalculate with corrections
+    sf.index=sf.index.floor('0.5H') #round because some values have extra seconds or minutes after :00:00 or :30:00
+    ####REMOVE DUPLICATED VALUES AND KEEP FIRST (IF EXISTING)
+    sf=sf[~sf.index.duplicated(keep='first')] # ~: makes false true and true false.  The df[] just filters, basically it says keep everything but the duplicated values (only true) 
+    sf=sf.asfreq('30 min') #without a method it just resamples with a nan
+
+
+    #3. Create a df with sap, environmental and soil information cropped to same size 
+    min_date = pd.to_datetime('1900-01-01 00:00:00') #dummies 
+    max_date = pd.to_datetime('2100-01-01 00:00:00')
+    for df in [sf,env,sm]: #establish min and max dates of smaller df 
+        if df.index.max() < max_date:
+            max_date = df.index.max()
+        if df.index.min() > min_date:
+            min_date = df.index.min()
+        
+    new_df = pd.DataFrame()
+    for df in [sf,env,sm]:
+        cut_df = df[(df.index >= min_date) & (df.index <= max_date)] #cut both df the same size 
+        for col in cut_df.columns:
+            new_df[col] = cut_df[col].copy()
+
+    #4. Filter for raw values close to 1, low VPD and low radiation days during days we know it rained a lot 
+    SF_red=new_df[(new_df['VPD'] < 0.1) & (new_df['NR'] < 1)].loc['2021-08-16 22:00:00':'2021-08-18 00:00:00'] #reduced
+         
+    #5. Get average value for those days (and std)
+    mean_zero_in,std_zero_in=SF_red['RatioIn'].describe().loc[['mean','std']]
+    mean_zero_out,std_zero_out=SF_red['RatioOut'].describe().loc[['mean','std']]
+    min_zero_out=np.min(SF_red['RatioOut'])
+
+    #6. Move inner probe with the above condition to 1 and the outer one relatively 
+    new_df['RatioIn_corr_mean']=new_df['RatioIn']-(mean_zero_in-1)
+    new_df['RatioOut_corr_mean']=new_df['RatioOut']-(mean_zero_out-1) #correct out with mean 
+    new_df['RatioOut_corr_min']=new_df['RatioOut']-(min_zero_out-1)
+
+    new_df.loc[new_df['RatioOut_corr_min']<= 0.9,'RatioOut_corr_min']=np.nan
+    new_df.loc[new_df['RatioIn_corr_mean']<= 0.9,'RatioIn_corr_mean']=np.nan #both lines remove really negative values
+
+    #7. Create new col with sensor T to see T variation in outer sensor and sort of calculate noise 
+    TdO=new_df['MaxTdO']-new_df['RiseTdO']
+    TuO=new_df['MaxTuO']-new_df['RiseTuO']
+    new_df['T_var']=TdO/TuO
+    TVC=(TuO+TdO)/2
+    new_df['Cambium Temperature (C)']=TVC 
+    new_df['Diff_Tvar_Ratio']=new_df['RatioOut_corr_min']-(new_df['T_var']-1)
+    noise_T=np.mean((new_df['Diff_Tvar_Ratio']-new_df['RatioOut_corr_min']).loc['2021-06-01 00:00:00':'2021-09-10 23:30:00'])
+    
+    #8.Calculate Heat Pulse Velocity
+
+    new_df['HPVI']=np.log(new_df['RatioIn_corr_mean'])*(k/0.6)*3600 #heat pulse velocity cm/h
+    new_df['HPVO']=np.log(new_df['RatioOut_corr_min'])*(k/0.6)*3600
+    new_df_raw=new_df
+    new_df_hpv=new_df.drop(columns=['NR','RatioOut_corr_mean','Diff_Tvar_Ratio','T_var']) #,'VPD'
+
+    return new_df_raw,new_df_hpv,noise_T
