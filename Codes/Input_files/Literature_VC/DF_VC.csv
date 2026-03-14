@@ -1,0 +1,526 @@
+PSY (Mpa),% Loss,Species,Type,Curve,Material,Method,Diameter(mm),Paper
+-6,95.616,Douglas fir ,branch,c1,adult branch,air-injection,2.0-12.0,Sperry and Ikeda 1996
+-6.00805153,93.536,Douglas fir ,branch,c1,adult branch,air-injection,2.0-12.0,Sperry and Ikeda 1996
+-6.00805153,81.536,Douglas fir ,branch,c1,adult branch,air-injection,2.0-12.0,Sperry and Ikeda 1996
+-4.776167472,85.497,Douglas fir ,branch,c1,adult branch,air-injection,2.0-12.0,Sperry and Ikeda 1996
+-5.033816425,79.105,Douglas fir ,branch,c1,adult branch,air-injection,2.0-12.0,Sperry and Ikeda 1996
+-4.792270531,79.097,Douglas fir ,branch,c1,adult branch,air-injection,2.0-12.0,Sperry and Ikeda 1996
+-5.025764895,69.665,Douglas fir ,branch,c1,adult branch,air-injection,2.0-12.0,Sperry and Ikeda 1996
+-5.549114332,62.961,Douglas fir ,branch,c1,adult branch,air-injection,2.0-12.0,Sperry and Ikeda 1996
+-4.977455717,59.903,Douglas fir ,branch,c1,adult branch,air-injection,2.0-12.0,Sperry and Ikeda 1996
+-4.486312399,79.407,Douglas fir ,branch,c1,adult branch,air-injection,2.0-12.0,Sperry and Ikeda 1996
+-4.502415459,75.408,Douglas fir ,branch,c1,adult branch,air-injection,2.0-12.0,Sperry and Ikeda 1996
+-4.285024155,73.321,Douglas fir ,branch,c1,adult branch,air-injection,2.0-12.0,Sperry and Ikeda 1996
+-4.301127214,65.001,Douglas fir ,branch,c1,adult branch,air-injection,2.0-12.0,Sperry and Ikeda 1996
+-4.188405797,64.998,Douglas fir ,branch,c1,adult branch,air-injection,2.0-12.0,Sperry and Ikeda 1996
+-4.502415459,53.968,Douglas fir ,branch,c1,adult branch,air-injection,2.0-12.0,Sperry and Ikeda 1996
+-4.252818035,49,Douglas fir ,branch,c1,adult branch,air-injection,2.0-12.0,Sperry and Ikeda 1996
+-4.019323671,51.872,Douglas fir ,branch,c1,adult branch,air-injection,2.0-12.0,Sperry and Ikeda 1996
+-4.019323671,50.272,Douglas fir ,branch,c1,adult branch,air-injection,2.0-12.0,Sperry and Ikeda 1996
+-4.019323671,47.552,Douglas fir ,branch,c1,adult branch,air-injection,2.0-12.0,Sperry and Ikeda 1996
+-3.504025765,42.896,Douglas fir ,branch,c1,adult branch,air-injection,2.0-12.0,Sperry and Ikeda 1996
+-4.011272142,41.312,Douglas fir ,branch,c1,adult branch,air-injection,2.0-12.0,Sperry and Ikeda 1996
+-3.028985507,44.961,Douglas fir ,branch,c1,adult branch,air-injection,2.0-12.0,Sperry and Ikeda 1996
+-2.996779388,51.84,Douglas fir ,branch,c1,adult branch,air-injection,2.0-12.0,Sperry and Ikeda 1996
+-3.761674718,32.024,Douglas fir ,branch,c1,adult branch,air-injection,2.0-12.0,Sperry and Ikeda 1996
+-3.761674718,30.104,Douglas fir ,branch,c1,adult branch,air-injection,2.0-12.0,Sperry and Ikeda 1996
+-3.777777778,27.545,Douglas fir ,branch,c1,adult branch,air-injection,2.0-12.0,Sperry and Ikeda 1996
+-3.504025765,33.136,Douglas fir ,branch,c1,adult branch,air-injection,2.0-12.0,Sperry and Ikeda 1996
+-3.512077295,31.056,Douglas fir ,branch,c1,adult branch,air-injection,2.0-12.0,Sperry and Ikeda 1996
+-3.495974235,28.336,Douglas fir ,branch,c1,adult branch,air-injection,2.0-12.0,Sperry and Ikeda 1996
+-3.512077295,25.456,Douglas fir ,branch,c1,adult branch,air-injection,2.0-12.0,Sperry and Ikeda 1996
+-3.254428341,27.208,Douglas fir ,branch,c1,adult branch,air-injection,2.0-12.0,Sperry and Ikeda 1996
+-3.246376812,25.608,Douglas fir ,branch,c1,adult branch,air-injection,2.0-12.0,Sperry and Ikeda 1996
+-3.246376812,22.728,Douglas fir ,branch,c1,adult branch,air-injection,2.0-12.0,Sperry and Ikeda 1996
+-3.020933977,25.121,Douglas fir ,branch,c1,adult branch,air-injection,2.0-12.0,Sperry and Ikeda 1996
+-3.020933977,20.481,Douglas fir ,branch,c1,adult branch,air-injection,2.0-12.0,Sperry and Ikeda 1996
+-3.020933977,19.361,Douglas fir ,branch,c1,adult branch,air-injection,2.0-12.0,Sperry and Ikeda 1996
+-3.004830918,16.48,Douglas fir ,branch,c1,adult branch,air-injection,2.0-12.0,Sperry and Ikeda 1996
+-2.505636071,35.664,Douglas fir ,branch,c1,adult branch,air-injection,2.0-12.0,Sperry and Ikeda 1996
+-2.513687601,31.024,Douglas fir ,branch,c1,adult branch,air-injection,2.0-12.0,Sperry and Ikeda 1996
+-2.505636071,19.184,Douglas fir ,branch,c1,adult branch,air-injection,2.0-12.0,Sperry and Ikeda 1996
+-2.505636071,15.344,Douglas fir ,branch,c1,adult branch,air-injection,2.0-12.0,Sperry and Ikeda 1996
+-2.497584541,13.264,Douglas fir ,branch,c1,adult branch,air-injection,2.0-12.0,Sperry and Ikeda 1996
+-2.513687601,11.024,Douglas fir ,branch,c1,adult branch,air-injection,2.0-12.0,Sperry and Ikeda 1996
+-2.006441224,25.728,Douglas fir ,branch,c1,adult branch,air-injection,2.0-12.0,Sperry and Ikeda 1996
+-2.006441224,21.888,Douglas fir ,branch,c1,adult branch,air-injection,2.0-12.0,Sperry and Ikeda 1996
+-2.006441224,16.288,Douglas fir ,branch,c1,adult branch,air-injection,2.0-12.0,Sperry and Ikeda 1996
+-1.982286634,9.727,Douglas fir ,branch,c1,adult branch,air-injection,2.0-12.0,Sperry and Ikeda 1996
+-1.322061192,11.466,Douglas fir ,branch,c1,adult branch,air-injection,2.0-12.0,Sperry and Ikeda 1996
+-1,14.816,Douglas fir ,branch,c1,adult branch,air-injection,2.0-12.0,Sperry and Ikeda 1996
+-1,12.896,Douglas fir ,branch,c1,adult branch,air-injection,2.0-12.0,Sperry and Ikeda 1996
+-1,12.096,Douglas fir ,branch,c1,adult branch,air-injection,2.0-12.0,Sperry and Ikeda 1996
+-1.01610306,8.416,Douglas fir ,branch,c1,adult branch,air-injection,2.0-12.0,Sperry and Ikeda 1996
+-1.01610306,4.736,Douglas fir ,branch,c1,adult branch,air-injection,2.0-12.0,Sperry and Ikeda 1996
+-1.00805153,0.896,Douglas fir ,branch,c1,adult branch,air-injection,2.0-12.0,Sperry and Ikeda 1996
+-0.098228663,0.867,Douglas fir ,branch,c1,adult branch,air-injection,2.0-12.0,Sperry and Ikeda 1996
+-4.784219002,97.817,Douglas fir ,branch,c2,adult branch,dehydration ,2.0-12.0,Sperry and Ikeda 1996
+-4.260869565,96.84,Douglas fir ,branch,c2,adult branch,dehydration ,2.0-12.0,Sperry and Ikeda 1996
+-4.132045089,92.996,Douglas fir ,branch,c2,adult branch,dehydration ,2.0-12.0,Sperry and Ikeda 1996
+-4.132045089,87.236,Douglas fir ,branch,c2,adult branch,dehydration ,2.0-12.0,Sperry and Ikeda 1996
+-4.244766506,85.16,Douglas fir ,branch,c2,adult branch,dehydration ,2.0-12.0,Sperry and Ikeda 1996
+-3.922705314,85.309,Douglas fir ,branch,c2,adult branch,dehydration ,2.0-12.0,Sperry and Ikeda 1996
+-3.874396135,82.908,Douglas fir ,branch,c2,adult branch,dehydration ,2.0-12.0,Sperry and Ikeda 1996
+-3.979066023,82.271,Douglas fir ,branch,c2,adult branch,dehydration ,2.0-12.0,Sperry and Ikeda 1996
+-4.196457327,80.358,Douglas fir ,branch,c2,adult branch,dehydration ,2.0-12.0,Sperry and Ikeda 1996
+-4.099838969,73.475,Douglas fir ,branch,c2,adult branch,dehydration ,2.0-12.0,Sperry and Ikeda 1996
+-4.08373591,70.435,Douglas fir ,branch,c2,adult branch,dehydration ,2.0-12.0,Sperry and Ikeda 1996
+-3.834138486,74.107,Douglas fir ,branch,c2,adult branch,dehydration ,2.0-12.0,Sperry and Ikeda 1996
+-5.114331723,62.948,Douglas fir ,branch,c2,adult branch,dehydration ,2.0-12.0,Sperry and Ikeda 1996
+-3.914653784,50.109,Douglas fir ,branch,c2,adult branch,dehydration ,2.0-12.0,Sperry and Ikeda 1996
+-2.91626409,48.957,Douglas fir ,branch,c2,adult branch,dehydration ,2.0-12.0,Sperry and Ikeda 1996
+-3.826086957,39.386,Douglas fir ,branch,c2,adult branch,dehydration ,2.0-12.0,Sperry and Ikeda 1996
+-3.882447665,34.108,Douglas fir ,branch,c2,adult branch,dehydration ,2.0-12.0,Sperry and Ikeda 1996
+-3.67310789,26.581,Douglas fir ,branch,c2,adult branch,dehydration ,2.0-12.0,Sperry and Ikeda 1996
+-2.851851852,25.435,Douglas fir ,branch,c2,adult branch,dehydration ,2.0-12.0,Sperry and Ikeda 1996
+-2.658615137,21.429,Douglas fir ,branch,c2,adult branch,dehydration ,2.0-12.0,Sperry and Ikeda 1996
+-2.513687601,21.584,Douglas fir ,branch,c2,adult branch,dehydration ,2.0-12.0,Sperry and Ikeda 1996
+-2.642512077,14.228,Douglas fir ,branch,c2,adult branch,dehydration ,2.0-12.0,Sperry and Ikeda 1996
+-2.199677939,10.534,Douglas fir ,branch,c2,adult branch,dehydration ,2.0-12.0,Sperry and Ikeda 1996
+-1.314009662,19.306,Douglas fir ,branch,c2,adult branch,dehydration ,2.0-12.0,Sperry and Ikeda 1996
+-3.600644122,16.019,Douglas fir ,branch,c2,adult branch,dehydration ,2.0-12.0,Sperry and Ikeda 1996
+-3.367149758,15.692,Douglas fir ,branch,c2,adult branch,dehydration ,2.0-12.0,Sperry and Ikeda 1996
+-3.552334944,13.618,Douglas fir ,branch,c2,adult branch,dehydration ,2.0-12.0,Sperry and Ikeda 1996
+-3.447665056,13.134,Douglas fir ,branch,c2,adult branch,dehydration ,2.0-12.0,Sperry and Ikeda 1996
+-3.334943639,12.331,Douglas fir ,branch,c2,adult branch,dehydration ,2.0-12.0,Sperry and Ikeda 1996
+-3.117552335,10.084,Douglas fir ,branch,c2,adult branch,dehydration ,2.0-12.0,Sperry and Ikeda 1996
+-2.980676329,7.519,Douglas fir ,branch,c2,adult branch,dehydration ,2.0-12.0,Sperry and Ikeda 1996
+-3.592592593,10.099,Douglas fir ,branch,c2,adult branch,dehydration ,2.0-12.0,Sperry and Ikeda 1996
+-3.028985507,0.481,Douglas fir ,branch,c2,adult branch,dehydration ,2.0-12.0,Sperry and Ikeda 1996
+-2.666666667,0.149,Douglas fir ,branch,c2,adult branch,dehydration ,2.0-12.0,Sperry and Ikeda 1996
+-2.400966184,0.461,Douglas fir ,branch,c2,adult branch,dehydration ,2.0-12.0,Sperry and Ikeda 1996
+-2.207729469,0.614,Douglas fir ,branch,c2,adult branch,dehydration ,2.0-12.0,Sperry and Ikeda 1996
+-2.022544283,0.769,Douglas fir ,branch,c2,adult branch,dehydration ,2.0-12.0,Sperry and Ikeda 1996
+-1.893719807,3.484,Douglas fir ,branch,c2,adult branch,dehydration ,2.0-12.0,Sperry and Ikeda 1996
+-1.531400966,2.673,Douglas fir ,branch,c2,adult branch,dehydration ,2.0-12.0,Sperry and Ikeda 1996
+-1.523349436,0.593,Douglas fir ,branch,c2,adult branch,dehydration ,2.0-12.0,Sperry and Ikeda 1996
+-1.314009662,1.066,Douglas fir ,branch,c2,adult branch,dehydration ,2.0-12.0,Sperry and Ikeda 1996
+-0.099173554,0.664,Douglas fir ,branch,c3,adult branch,air-injection,>8,Sperry and Ikeda 1996
+-0.991735537,0.996,Douglas fir ,branch,c3,adult branch,air-injection,>8,Sperry and Ikeda 1996
+-2.024793388,1.826,Douglas fir ,branch,c3,adult branch,air-injection,>8,Sperry and Ikeda 1996
+-3.008264463,4.979,Douglas fir ,branch,c3,adult branch,air-injection,>8,Sperry and Ikeda 1996
+-4.024793388,7.635,Douglas fir ,branch,c3,adult branch,air-injection,>8,Sperry and Ikeda 1996
+-5.049586777,35.353,Douglas fir ,branch,c3,adult branch,air-injection,>8,Sperry and Ikeda 1996
+-6,75.021,Douglas fir ,branch,c3,adult branch,air-injection,>8,Sperry and Ikeda 1996
+-7.008264463,93.112,Douglas fir ,branch,c3,adult branch,air-injection,>8,Sperry and Ikeda 1996
+-8.033057851,99.253,Douglas fir ,branch,c3,adult branch,air-injection,>8,Sperry and Ikeda 1996
+-7,99.585,Douglas fir ,branch,c4,adult branch,air-injection,<5,Sperry and Ikeda 1996
+-6,96.598,Douglas fir ,branch,c4,adult branch,air-injection,<5,Sperry and Ikeda 1996
+-5.008264463,62.739,Douglas fir ,branch,c4,adult branch,air-injection,<5,Sperry and Ikeda 1996
+-4.008264463,30.373,Douglas fir ,branch,c4,adult branch,air-injection,<5,Sperry and Ikeda 1996
+-2.991735537,19.917,Douglas fir ,branch,c4,adult branch,air-injection,<5,Sperry and Ikeda 1996
+-2,10.29,Douglas fir ,branch,c4,adult branch,air-injection,<5,Sperry and Ikeda 1996
+-0.991735537,5.477,Douglas fir ,branch,c4,adult branch,air-injection,<5,Sperry and Ikeda 1996
+-5.016528926,98.257,Douglas fir ,root,c5,adult root,air-injection,>8,Sperry and Ikeda 1996
+-4.008264463,52.116,Douglas fir ,root,c5,adult root,air-injection,>8,Sperry and Ikeda 1996
+-3,7.469,Douglas fir ,root,c5,adult root,air-injection,>8,Sperry and Ikeda 1996
+-2.504132231,5.643,Douglas fir ,root,c5,adult root,air-injection,>8,Sperry and Ikeda 1996
+-1.991735537,4.481,Douglas fir ,root,c5,adult root,air-injection,>8,Sperry and Ikeda 1996
+-1.487603306,2.158,Douglas fir ,root,c5,adult root,air-injection,>8,Sperry and Ikeda 1996
+-0.991735537,2.324,Douglas fir ,root,c5,adult root,air-injection,>8,Sperry and Ikeda 1996
+-0.107438017,0.498,Douglas fir ,root,c5,adult root,air-injection,>8,Sperry and Ikeda 1996
+-5.008264463,98.423,Douglas fir ,root,c6,adult root,air-injection,<5,Sperry and Ikeda 1996
+-4,87.303,Douglas fir ,root,c6,adult root,air-injection,<5,Sperry and Ikeda 1996
+-3,70.041,Douglas fir ,root,c6,adult root,air-injection,<5,Sperry and Ikeda 1996
+-2.512396694,63.9,Douglas fir ,root,c6,adult root,air-injection,<5,Sperry and Ikeda 1996
+-2.016528926,54.772,Douglas fir ,root,c6,adult root,air-injection,<5,Sperry and Ikeda 1996
+-1.495867769,44.979,Douglas fir ,root,c6,adult root,air-injection,<5,Sperry and Ikeda 1996
+-1,25.56,Douglas fir ,root,c6,adult root,air-injection,<5,Sperry and Ikeda 1996
+-6.845013625,98.669,Douglas fir ,stem,c7,seedling shoot cw,air-injection,4.22+-0.45,Kavanagh et al 1999 
+-6.847875095,95.738,Douglas fir ,stem,c7,seedling shoot cw,air-injection,4.22+-0.45,Kavanagh et al 1999 
+-6.872769885,93.394,Douglas fir ,stem,c7,seedling shoot cw,air-injection,4.22+-0.45,Kavanagh et al 1999 
+-5.570228716,84.604,Douglas fir ,stem,c7,seedling shoot cw,air-injection,4.22+-0.45,Kavanagh et al 1999 
+-5.619446001,80.502,Douglas fir ,stem,c7,seedling shoot cw,air-injection,4.22+-0.45,Kavanagh et al 1999 
+-5.690124311,77.571,Douglas fir ,stem,c7,seedling shoot cw,air-injection,4.22+-0.45,Kavanagh et al 1999 
+-5.018823437,70.539,Douglas fir ,stem,c7,seedling shoot cw,air-injection,4.22+-0.45,Kavanagh et al 1999 
+-5.023115642,66.144,Douglas fir ,stem,c7,seedling shoot cw,air-injection,4.22+-0.45,Kavanagh et al 1999 
+-5.005946822,60.577,Douglas fir ,stem,c7,seedling shoot cw,air-injection,4.22+-0.45,Kavanagh et al 1999 
+-4.589889076,46.805,Douglas fir ,stem,c7,seedling shoot cw,air-injection,4.22+-0.45,Kavanagh et al 1999 
+-4.572147961,41.824,Douglas fir ,stem,c7,seedling shoot cw,air-injection,4.22+-0.45,Kavanagh et al 1999 
+-4.59904578,37.429,Douglas fir ,stem,c7,seedling shoot cw,air-injection,4.22+-0.45,Kavanagh et al 1999 
+-3.06730086,8.713,Douglas fir ,stem,c7,seedling shoot cw,air-injection,4.22+-0.45,Kavanagh et al 1999 
+-3.115659704,5.49,Douglas fir ,stem,c7,seedling shoot cw,air-injection,4.22+-0.45,Kavanagh et al 1999 
+-3.186051867,2.853,Douglas fir ,stem,c7,seedling shoot cw,air-injection,4.22+-0.45,Kavanagh et al 1999 
+-6.90978642,99.123,Douglas fir ,root,c8,seedling root cw,air-injection,0.76+-0.11,Kavanagh et al 1999 
+-5.673892254,99.232,Douglas fir ,root,c8,seedling root cw,air-injection,0.76+-0.11,Kavanagh et al 1999 
+-5.202103921,99.449,Douglas fir ,root,c8,seedling root cw,air-injection,0.76+-0.11,Kavanagh et al 1999 
+-4.640261396,99.369,Douglas fir ,root,c8,seedling root cw,air-injection,0.76+-0.11,Kavanagh et al 1999 
+-4.594357667,97.66,Douglas fir ,root,c8,seedling root cw,air-injection,0.76+-0.11,Kavanagh et al 1999 
+-4.144883647,97.596,Douglas fir ,root,c8,seedling root cw,air-injection,0.76+-0.11,Kavanagh et al 1999 
+-3.692540644,92.426,Douglas fir ,root,c8,seedling root cw,air-injection,0.76+-0.11,Kavanagh et al 1999 
+-3.690627989,89.021,Douglas fir ,root,c8,seedling root cw,air-injection,0.76+-0.11,Kavanagh et al 1999 
+-3.733184571,84.772,Douglas fir ,root,c8,seedling root cw,air-injection,0.76+-0.11,Kavanagh et al 1999 
+-3.077621932,77.871,Douglas fir ,root,c8,seedling root cw,air-injection,0.76+-0.11,Kavanagh et al 1999 
+-3.119700351,72.77,Douglas fir ,root,c8,seedling root cw,air-injection,0.76+-0.11,Kavanagh et al 1999 
+-3.138826905,66.815,Douglas fir ,root,c8,seedling root cw,air-injection,0.76+-0.11,Kavanagh et al 1999 
+-2.573956009,61.345,Douglas fir ,root,c8,seedling root cw,air-injection,0.76+-0.11,Kavanagh et al 1999 
+-2.593401339,55.958,Douglas fir ,root,c8,seedling root cw,air-injection,0.76+-0.11,Kavanagh et al 1999 
+-2.613324833,51.422,Douglas fir ,root,c8,seedling root cw,air-injection,0.76+-0.11,Kavanagh et al 1999 
+-2.111252789,37.734,Douglas fir ,root,c8,seedling root cw,air-injection,0.76+-0.11,Kavanagh et al 1999 
+-2.087185209,34.893,Douglas fir ,root,c8,seedling root cw,air-injection,0.76+-0.11,Kavanagh et al 1999 
+-2.131176283,33.197,Douglas fir ,root,c8,seedling root cw,air-injection,0.76+-0.11,Kavanagh et al 1999 
+-1.563914568,23.471,Douglas fir ,root,c8,seedling root cw,air-injection,0.76+-0.11,Kavanagh et al 1999 
+-1.582722346,16.949,Douglas fir ,root,c8,seedling root cw,air-injection,0.76+-0.11,Kavanagh et al 1999 
+-1.557379662,11.839,Douglas fir ,root,c8,seedling root cw,air-injection,0.76+-0.11,Kavanagh et al 1999 
+-6.931595302,88.769,Douglas fir ,stem,c9,seedling shoot cd,air-injection,3.44+-0.45,Kavanagh et al 1999 
+-6.950805117,82.77,Douglas fir ,stem,c9,seedling shoot cd,air-injection,3.44+-0.45,Kavanagh et al 1999 
+-6.924653941,76.483,Douglas fir ,stem,c9,seedling shoot cd,air-injection,3.44+-0.45,Kavanagh et al 1999 
+-5.700230033,69.252,Douglas fir ,stem,c9,seedling shoot cd,air-injection,3.44+-0.45,Kavanagh et al 1999 
+-5.696194358,62.109,Douglas fir ,stem,c9,seedling shoot cd,air-injection,3.44+-0.45,Kavanagh et al 1999 
+-5.692481537,55.537,Douglas fir ,stem,c9,seedling shoot cd,air-injection,3.44+-0.45,Kavanagh et al 1999 
+-5.05855765,53.492,Douglas fir ,stem,c9,seedling shoot cd,air-injection,3.44+-0.45,Kavanagh et al 1999 
+-5.100205819,47.209,Douglas fir ,stem,c9,seedling shoot cd,air-injection,3.44+-0.45,Kavanagh et al 1999 
+-5.074377497,41.493,Douglas fir ,stem,c9,seedling shoot cd,air-injection,3.44+-0.45,Kavanagh et al 1999 
+-4.575568021,38.6,Douglas fir ,stem,c9,seedling shoot cd,air-injection,3.44+-0.45,Kavanagh et al 1999 
+-4.548932564,31.456,Douglas fir ,stem,c9,seedling shoot cd,air-injection,3.44+-0.45,Kavanagh et al 1999 
+-4.613180516,25.175,Douglas fir ,stem,c9,seedling shoot cd,air-injection,3.44+-0.45,Kavanagh et al 1999 
+-3.090600912,10.209,Douglas fir ,stem,c9,seedling shoot cd,air-injection,3.44+-0.45,Kavanagh et al 1999 
+-3.111102143,6.496,Douglas fir ,stem,c9,seedling shoot cd,air-injection,3.44+-0.45,Kavanagh et al 1999 
+-3.086726664,3.351,Douglas fir ,stem,c9,seedling shoot cd,air-injection,3.44+-0.45,Kavanagh et al 1999 
+-6.868571429,99.371,Douglas fir ,root,c10,seedling root cd,air-injection,1.87+-0.46,Kavanagh et al 1999 
+-6.868571429,96.493,Douglas fir ,root,c10,seedling root cd,air-injection,1.87+-0.46,Kavanagh et al 1999 
+-6.891428571,90.736,Douglas fir ,root,c10,seedling root cd,air-injection,1.87+-0.46,Kavanagh et al 1999 
+-5.634285714,94.855,Douglas fir ,root,c10,seedling root cd,air-injection,1.87+-0.46,Kavanagh et al 1999 
+-5.611428571,87.663,Douglas fir ,root,c10,seedling root cd,air-injection,1.87+-0.46,Kavanagh et al 1999 
+-5.611428571,81.908,Douglas fir ,root,c10,seedling root cd,air-injection,1.87+-0.46,Kavanagh et al 1999 
+-5.108571429,89.426,Douglas fir ,root,c10,seedling root cd,air-injection,1.87+-0.46,Kavanagh et al 1999 
+-4.994285714,75.909,Douglas fir ,root,c10,seedling root cd,air-injection,1.87+-0.46,Kavanagh et al 1999 
+-5.085714286,63.24,Douglas fir ,root,c10,seedling root cd,air-injection,1.87+-0.46,Kavanagh et al 1999 
+-4.56,75.94,Douglas fir ,root,c10,seedling root cd,air-injection,1.87+-0.46,Kavanagh et al 1999 
+-4.582857143,64.428,Douglas fir ,root,c10,seedling root cd,air-injection,1.87+-0.46,Kavanagh et al 1999 
+-4.537142857,49.755,Douglas fir ,root,c10,seedling root cd,air-injection,1.87+-0.46,Kavanagh et al 1999 
+-4.057142857,49.214,Douglas fir ,root,c10,seedling root cd,air-injection,1.87+-0.46,Kavanagh et al 1999 
+-4.057142857,43.17,Douglas fir ,root,c10,seedling root cd,air-injection,1.87+-0.46,Kavanagh et al 1999 
+-4.08,35.687,Douglas fir ,root,c10,seedling root cd,air-injection,1.87+-0.46,Kavanagh et al 1999 
+-3.6,43.203,Douglas fir ,root,c10,seedling root cd,air-injection,1.87+-0.46,Kavanagh et al 1999 
+-3.577142857,40.903,Douglas fir ,root,c10,seedling root cd,air-injection,1.87+-0.46,Kavanagh et al 1999 
+-3.051428571,33.746,Douglas fir ,root,c10,seedling root cd,air-injection,1.87+-0.46,Kavanagh et al 1999 
+-3.074285714,30.867,Douglas fir ,root,c10,seedling root cd,air-injection,1.87+-0.46,Kavanagh et al 1999 
+-2.548571429,23.711,Douglas fir ,root,c10,seedling root cd,air-injection,1.87+-0.46,Kavanagh et al 1999 
+-2.525714286,19.683,Douglas fir ,root,c10,seedling root cd,air-injection,1.87+-0.46,Kavanagh et al 1999 
+-2.068571429,10.508,Douglas fir ,root,c10,seedling root cd,air-injection,1.87+-0.46,Kavanagh et al 1999 
+-2.091428571,8.492,Douglas fir ,root,c10,seedling root cd,air-injection,1.87+-0.46,Kavanagh et al 1999 
+-2.068571429,3.601,Douglas fir ,root,c10,seedling root cd,air-injection,1.87+-0.46,Kavanagh et al 1999 
+-6.893718827,86.509,Douglas fir ,stem,c11,seedling shoot iw,air-injection,2.75+-0.37,Kavanagh et al 1999 
+-6.846518795,81.549,Douglas fir ,stem,c11,seedling shoot iw,air-injection,2.75+-0.37,Kavanagh et al 1999 
+-6.887555249,75.415,Douglas fir ,stem,c11,seedling shoot iw,air-injection,2.75+-0.37,Kavanagh et al 1999 
+-5.550058797,67.921,Douglas fir ,stem,c11,seedling shoot iw,air-injection,2.75+-0.37,Kavanagh et al 1999 
+-5.523458092,60.04,Douglas fir ,stem,c11,seedling shoot iw,air-injection,2.75+-0.37,Kavanagh et al 1999 
+-5.519240907,52.449,Douglas fir ,stem,c11,seedling shoot iw,air-injection,2.75+-0.37,Kavanagh et al 1999 
+-5.027614452,47.521,Douglas fir ,stem,c11,seedling shoot iw,air-injection,2.75+-0.37,Kavanagh et al 1999 
+-4.9577065,41.687,Douglas fir ,stem,c11,seedling shoot iw,air-injection,2.75+-0.37,Kavanagh et al 1999 
+-4.975872836,34.386,Douglas fir ,stem,c11,seedling shoot iw,air-injection,2.75+-0.37,Kavanagh et al 1999 
+-4.461700661,28.876,Douglas fir ,stem,c11,seedling shoot iw,air-injection,2.75+-0.37,Kavanagh et al 1999 
+-4.504034711,25.078,Douglas fir ,stem,c11,seedling shoot iw,air-injection,2.75+-0.37,Kavanagh et al 1999 
+-4.479380398,20.7,Douglas fir ,stem,c11,seedling shoot iw,air-injection,2.75+-0.37,Kavanagh et al 1999 
+-2.984388305,9.714,Douglas fir ,stem,c11,seedling shoot iw,air-injection,2.75+-0.37,Kavanagh et al 1999 
+-2.982441912,6.211,Douglas fir ,stem,c11,seedling shoot iw,air-injection,2.75+-0.37,Kavanagh et al 1999 
+-2.936052877,2.71,Douglas fir ,stem,c11,seedling shoot iw,air-injection,2.75+-0.37,Kavanagh et al 1999 
+-6.966906475,99.856,Douglas fir ,root,c12,seedling root iw,air-injection,0.96+-0.12,Kavanagh et al 1999 
+-5.610871303,98.993,Douglas fir ,root,c12,seedling root iw,air-injection,0.96+-0.12,Kavanagh et al 1999 
+-5.121183054,97.554,Douglas fir ,root,c12,seedling root iw,air-injection,0.96+-0.12,Kavanagh et al 1999 
+-5.141486811,94.101,Douglas fir ,root,c12,seedling root iw,air-injection,0.96+-0.12,Kavanagh et al 1999 
+-5.139408473,90.36,Douglas fir ,root,c12,seedling root iw,air-injection,0.96+-0.12,Kavanagh et al 1999 
+-4.629576339,92.662,Douglas fir ,root,c12,seedling root iw,air-injection,0.96+-0.12,Kavanagh et al 1999 
+-4.625259792,84.892,Douglas fir ,root,c12,seedling root iw,air-injection,0.96+-0.12,Kavanagh et al 1999 
+-4.644444444,79.424,Douglas fir ,root,c12,seedling root iw,air-injection,0.96+-0.12,Kavanagh et al 1999 
+-4.113509193,83.741,Douglas fir ,root,c12,seedling root iw,air-injection,0.96+-0.12,Kavanagh et al 1999 
+-4.128697042,71.079,Douglas fir ,root,c12,seedling root iw,air-injection,0.96+-0.12,Kavanagh et al 1999 
+-4.167226219,60.432,Douglas fir ,root,c12,seedling root iw,air-injection,0.96+-0.12,Kavanagh et al 1999 
+-3.647641886,85.18,Douglas fir ,root,c12,seedling root iw,air-injection,0.96+-0.12,Kavanagh et al 1999 
+-3.639808153,71.079,Douglas fir ,root,c12,seedling root iw,air-injection,0.96+-0.12,Kavanagh et al 1999 
+-3.654196643,56.978,Douglas fir ,root,c12,seedling root iw,air-injection,0.96+-0.12,Kavanagh et al 1999 
+-3.054356515,57.266,Douglas fir ,root,c12,seedling root iw,air-injection,0.96+-0.12,Kavanagh et al 1999 
+-3.116227018,48.633,Douglas fir ,root,c12,seedling root iw,air-injection,0.96+-0.12,Kavanagh et al 1999 
+-3.132853717,38.561,Douglas fir ,root,c12,seedling root iw,air-injection,0.96+-0.12,Kavanagh et al 1999 
+-2.667306155,40.576,Douglas fir ,root,c12,seedling root iw,air-injection,0.96+-0.12,Kavanagh et al 1999 
+-2.641886491,34.82,Douglas fir ,root,c12,seedling root iw,air-injection,0.96+-0.12,Kavanagh et al 1999 
+-2.65931255,26.187,Douglas fir ,root,c12,seedling root iw,air-injection,0.96+-0.12,Kavanagh et al 1999 
+-2.150119904,29.64,Douglas fir ,root,c12,seedling root iw,air-injection,0.96+-0.12,Kavanagh et al 1999 
+-2.079456435,22.446,Douglas fir ,root,c12,seedling root iw,air-injection,0.96+-0.12,Kavanagh et al 1999 
+-2.142126299,15.252,Douglas fir ,root,c12,seedling root iw,air-injection,0.96+-0.12,Kavanagh et al 1999 
+-1.655315747,18.993,Douglas fir ,root,c12,seedling root iw,air-injection,0.96+-0.12,Kavanagh et al 1999 
+-1.607034373,12.086,Douglas fir ,root,c12,seedling root iw,air-injection,0.96+-0.12,Kavanagh et al 1999 
+-1.604156675,6.906,Douglas fir ,root,c12,seedling root iw,air-injection,0.96+-0.12,Kavanagh et al 1999 
+-6.775523402,89.209,Douglas fir ,stem,c13,seedling shoot id,air-injection,1.72+-0.07,Kavanagh et al 1999 
+-6.736722981,83.741,Douglas fir ,stem,c13,seedling shoot id,air-injection,1.72+-0.07,Kavanagh et al 1999 
+-6.764368281,79.137,Douglas fir ,stem,c13,seedling shoot id,air-injection,1.72+-0.07,Kavanagh et al 1999 
+-5.431897179,65.036,Douglas fir ,stem,c13,seedling shoot id,air-injection,1.72+-0.07,Kavanagh et al 1999 
+-5.419125374,56.403,Douglas fir ,stem,c13,seedling shoot id,air-injection,1.72+-0.07,Kavanagh et al 1999 
+-5.474415973,47.194,Douglas fir ,stem,c13,seedling shoot id,air-injection,1.72+-0.07,Kavanagh et al 1999 
+-4.945760246,37.698,Douglas fir ,stem,c13,seedling shoot id,air-injection,1.72+-0.07,Kavanagh et al 1999 
+-5.017702692,33.669,Douglas fir ,stem,c13,seedling shoot id,air-injection,1.72+-0.07,Kavanagh et al 1999 
+-5.000080834,29.353,Douglas fir ,stem,c13,seedling shoot id,air-injection,1.72+-0.07,Kavanagh et al 1999 
+-4.510225527,25.324,Douglas fir ,stem,c13,seedling shoot id,air-injection,1.72+-0.07,Kavanagh et al 1999 
+-4.513458896,22.446,Douglas fir ,stem,c13,seedling shoot id,air-injection,1.72+-0.07,Kavanagh et al 1999 
+-4.539810848,18.993,Douglas fir ,stem,c13,seedling shoot id,air-injection,1.72+-0.07,Kavanagh et al 1999 
+-3.009619271,0.863,Douglas fir ,stem,c13,seedling shoot id,air-injection,1.72+-0.07,Kavanagh et al 1999 
+-3.007032576,3.165,Douglas fir ,stem,c13,seedling shoot id,air-injection,1.72+-0.07,Kavanagh et al 1999 
+-6.786516854,96.934,Douglas fir ,root,c14,seedling root id,air-injection,0.93+-0.06,Kavanagh et al 1999 
+-6.786516854,93.723,Douglas fir ,root,c14,seedling root id,air-injection,0.93+-0.06,Kavanagh et al 1999 
+-6.831460674,91.679,Douglas fir ,root,c14,seedling root id,air-injection,0.93+-0.06,Kavanagh et al 1999 
+-5.550561798,99.562,Douglas fir ,root,c14,seedling root id,air-injection,0.93+-0.06,Kavanagh et al 1999 
+-5.550561798,94.891,Douglas fir ,root,c14,seedling root id,air-injection,0.93+-0.06,Kavanagh et al 1999 
+-5.573033708,91.387,Douglas fir ,root,c14,seedling root id,air-injection,0.93+-0.06,Kavanagh et al 1999 
+-5.033707865,89.635,Douglas fir ,root,c14,seedling root id,air-injection,0.93+-0.06,Kavanagh et al 1999 
+-4.966292135,79.124,Douglas fir ,root,c14,seedling root id,air-injection,0.93+-0.06,Kavanagh et al 1999 
+-5.011235955,68.905,Douglas fir ,root,c14,seedling root id,air-injection,0.93+-0.06,Kavanagh et al 1999 
+-4.561797753,76.204,Douglas fir ,root,c14,seedling root id,air-injection,0.93+-0.06,Kavanagh et al 1999 
+-4.471910112,67.737,Douglas fir ,root,c14,seedling root id,air-injection,0.93+-0.06,Kavanagh et al 1999 
+-4.539325843,59.562,Douglas fir ,root,c14,seedling root id,air-injection,0.93+-0.06,Kavanagh et al 1999 
+-4.06741573,52.847,Douglas fir ,root,c14,seedling root id,air-injection,0.93+-0.06,Kavanagh et al 1999 
+-4,48.759,Douglas fir ,root,c14,seedling root id,air-injection,0.93+-0.06,Kavanagh et al 1999 
+-4.04494382,44.672,Douglas fir ,root,c14,seedling root id,air-injection,0.93+-0.06,Kavanagh et al 1999 
+-3.528089888,45.547,Douglas fir ,root,c14,seedling root id,air-injection,0.93+-0.06,Kavanagh et al 1999 
+-3.505617978,37.08,Douglas fir ,root,c14,seedling root id,air-injection,0.93+-0.06,Kavanagh et al 1999 
+-3.505617978,31.533,Douglas fir ,root,c14,seedling root id,air-injection,0.93+-0.06,Kavanagh et al 1999 
+-3.011235955,31.825,Douglas fir ,root,c14,seedling root id,air-injection,0.93+-0.06,Kavanagh et al 1999 
+-2.988764045,25.985,Douglas fir ,root,c14,seedling root id,air-injection,0.93+-0.06,Kavanagh et al 1999 
+-2.966292135,20.73,Douglas fir ,root,c14,seedling root id,air-injection,0.93+-0.06,Kavanagh et al 1999 
+-2.494382022,22.482,Douglas fir ,root,c14,seedling root id,air-injection,0.93+-0.06,Kavanagh et al 1999 
+-2.516853933,18.102,Douglas fir ,root,c14,seedling root id,air-injection,0.93+-0.06,Kavanagh et al 1999 
+-2.539325843,14.015,Douglas fir ,root,c14,seedling root id,air-injection,0.93+-0.06,Kavanagh et al 1999 
+-2,17.81,Douglas fir ,root,c14,seedling root id,air-injection,0.93+-0.06,Kavanagh et al 1999 
+-2.02247191,13.723,Douglas fir ,root,c14,seedling root id,air-injection,0.93+-0.06,Kavanagh et al 1999 
+-1.573033708,3.796,Douglas fir ,root,c14,seedling root id,air-injection,0.93+-0.06,Kavanagh et al 1999 
+-8.977272727,100,Douglas fir ,stem,c15,whole stem ,2 methods,10,Domec and Gartner 2001
+-7.977272727,91.44,Douglas fir ,stem,c15,whole stem ,2 methods,10,Domec and Gartner 2001
+-7,79.62,Douglas fir ,stem,c15,whole stem ,2 methods,10,Domec and Gartner 2001
+-6.954545455,84.511,Douglas fir ,stem,c15,whole stem ,2 methods,10,Domec and Gartner 2001
+-7,75.136,Douglas fir ,stem,c15,whole stem ,2 methods,10,Domec and Gartner 2001
+-5.931818182,63.723,Douglas fir ,stem,c15,whole stem ,2 methods,10,Domec and Gartner 2001
+-5.977272727,69.837,Douglas fir ,stem,c15,whole stem ,2 methods,10,Domec and Gartner 2001
+-5.954545455,58.016,Douglas fir ,stem,c15,whole stem ,2 methods,10,Domec and Gartner 2001
+-4.954545455,37.636,Douglas fir ,stem,c15,whole stem ,2 methods,10,Domec and Gartner 2001
+-4.954545455,45.38,Douglas fir ,stem,c15,whole stem ,2 methods,10,Domec and Gartner 2001
+-4.977272727,33.152,Douglas fir ,stem,c15,whole stem ,2 methods,10,Domec and Gartner 2001
+-4,8.288,Douglas fir ,stem,c15,whole stem ,2 methods,10,Domec and Gartner 2001
+-3.977272727,11.141,Douglas fir ,stem,c15,whole stem ,2 methods,10,Domec and Gartner 2001
+-2,0.136,Douglas fir ,stem,c15,whole stem ,2 methods,10,Domec and Gartner 2001
+-0.454545455,0,Douglas fir ,stem,c15,whole stem ,2 methods,10,Domec and Gartner 2001
+-6.95,94.667,Douglas fir ,stem,c16,height1 ,2 methods,blocs inner and outer samples,Domec and Gartner 2001
+-6.95,96.667,Douglas fir ,stem,c16,height1 ,2 methods,blocs inner and outer samples,Domec and Gartner 2001
+-7,92.667,Douglas fir ,stem,c16,height1 ,2 methods,blocs inner and outer samples,Domec and Gartner 2001
+-6,88,Douglas fir ,stem,c16,height1 ,2 methods,blocs inner and outer samples,Domec and Gartner 2001
+-6,82,Douglas fir ,stem,c16,height1 ,2 methods,blocs inner and outer samples,Domec and Gartner 2001
+-6,76,Douglas fir ,stem,c16,height1 ,2 methods,blocs inner and outer samples,Domec and Gartner 2001
+-5,58.667,Douglas fir ,stem,c16,height1 ,2 methods,blocs inner and outer samples,Domec and Gartner 2001
+-5,50,Douglas fir ,stem,c16,height1 ,2 methods,blocs inner and outer samples,Domec and Gartner 2001
+-5,42,Douglas fir ,stem,c16,height1 ,2 methods,blocs inner and outer samples,Domec and Gartner 2001
+-4,28.667,Douglas fir ,stem,c16,height1 ,2 methods,blocs inner and outer samples,Domec and Gartner 2001
+-3.95,25.333,Douglas fir ,stem,c16,height1 ,2 methods,blocs inner and outer samples,Domec and Gartner 2001
+-4,20.667,Douglas fir ,stem,c16,height1 ,2 methods,blocs inner and outer samples,Domec and Gartner 2001
+-3,15.333,Douglas fir ,stem,c16,height1 ,2 methods,blocs inner and outer samples,Domec and Gartner 2001
+-2.95,12,Douglas fir ,stem,c16,height1 ,2 methods,blocs inner and outer samples,Domec and Gartner 2001
+-1.95,10.667,Douglas fir ,stem,c16,height1 ,2 methods,blocs inner and outer samples,Domec and Gartner 2001
+-2.05,8,Douglas fir ,stem,c16,height1 ,2 methods,blocs inner and outer samples,Domec and Gartner 2001
+-1.95,4.667,Douglas fir ,stem,c16,height1 ,2 methods,blocs inner and outer samples,Domec and Gartner 2001
+-0.45,4,Douglas fir ,stem,c16,height1 ,2 methods,blocs inner and outer samples,Domec and Gartner 2001
+-0.5,2.667,Douglas fir ,stem,c16,height1 ,2 methods,blocs inner and outer samples,Domec and Gartner 2001
+0,0.667,Douglas fir ,stem,c16,height1 ,2 methods,blocs inner and outer samples,Domec and Gartner 2001
+-6,96.053,Douglas fir ,stem,c17,height2,2 methods,blocs inner and outer samples,Domec and Gartner 2001
+-5,88.158,Douglas fir ,stem,c17,height2,2 methods,blocs inner and outer samples,Domec and Gartner 2001
+-4.95,90.789,Douglas fir ,stem,c17,height2,2 methods,blocs inner and outer samples,Domec and Gartner 2001
+-4.95,85.526,Douglas fir ,stem,c17,height2,2 methods,blocs inner and outer samples,Domec and Gartner 2001
+-4.05,46.711,Douglas fir ,stem,c17,height2,2 methods,blocs inner and outer samples,Domec and Gartner 2001
+-4,51.974,Douglas fir ,stem,c17,height2,2 methods,blocs inner and outer samples,Domec and Gartner 2001
+-4,42.105,Douglas fir ,stem,c17,height2,2 methods,blocs inner and outer samples,Domec and Gartner 2001
+-3,24.342,Douglas fir ,stem,c17,height2,2 methods,blocs inner and outer samples,Domec and Gartner 2001
+-3,26.316,Douglas fir ,stem,c17,height2,2 methods,blocs inner and outer samples,Domec and Gartner 2001
+-2,15.789,Douglas fir ,stem,c17,height2,2 methods,blocs inner and outer samples,Domec and Gartner 2001
+-2,19.079,Douglas fir ,stem,c17,height2,2 methods,blocs inner and outer samples,Domec and Gartner 2001
+-2,13.158,Douglas fir ,stem,c17,height2,2 methods,blocs inner and outer samples,Domec and Gartner 2001
+-0.5,5.921,Douglas fir ,stem,c17,height2,2 methods,blocs inner and outer samples,Domec and Gartner 2001
+-0.5,1.974,Douglas fir ,stem,c17,height2,2 methods,blocs inner and outer samples,Domec and Gartner 2001
+-5.038,89.474,Douglas fir ,stem,c18,height3,2 methods,blocs inner and outer samples,Domec and Gartner 2001
+-4.937,91.447,Douglas fir ,stem,c18,height3,2 methods,blocs inner and outer samples,Domec and Gartner 2001
+-3.924,59.868,Douglas fir ,stem,c18,height3,2 methods,blocs inner and outer samples,Domec and Gartner 2001
+-3.924,64.474,Douglas fir ,stem,c18,height3,2 methods,blocs inner and outer samples,Domec and Gartner 2001
+-3.975,57.237,Douglas fir ,stem,c18,height3,2 methods,blocs inner and outer samples,Domec and Gartner 2001
+-2.962,32.895,Douglas fir ,stem,c18,height3,2 methods,blocs inner and outer samples,Domec and Gartner 2001
+-2.962,29.605,Douglas fir ,stem,c18,height3,2 methods,blocs inner and outer samples,Domec and Gartner 2001
+-2.962,26.974,Douglas fir ,stem,c18,height3,2 methods,blocs inner and outer samples,Domec and Gartner 2001
+-1.949,15.132,Douglas fir ,stem,c18,height3,2 methods,blocs inner and outer samples,Domec and Gartner 2001
+-2,13.158,Douglas fir ,stem,c18,height3,2 methods,blocs inner and outer samples,Domec and Gartner 2001
+-0.43,2.632,Douglas fir ,stem,c18,height3,2 methods,blocs inner and outer samples,Domec and Gartner 2001
+-0.43,3.289,Douglas fir ,stem,c18,height3,2 methods,blocs inner and outer samples,Domec and Gartner 2001
+-6,90.789,Douglas fir ,stem,c19,1m,2 methods,blocs inner and outer samples,Domec and Gartner 2001
+-6,94.079,Douglas fir ,stem,c19,1m,2 methods,blocs inner and outer samples,Domec and Gartner 2001
+-5.95,87.5,Douglas fir ,stem,c19,1m,2 methods,blocs inner and outer samples,Domec and Gartner 2001
+-5,83.553,Douglas fir ,stem,c19,1m,2 methods,blocs inner and outer samples,Domec and Gartner 2001
+-5,85.526,Douglas fir ,stem,c19,1m,2 methods,blocs inner and outer samples,Domec and Gartner 2001
+-5.05,79.605,Douglas fir ,stem,c19,1m,2 methods,blocs inner and outer samples,Domec and Gartner 2001
+-5.05,76.974,Douglas fir ,stem,c19,1m,2 methods,blocs inner and outer samples,Domec and Gartner 2001
+-4,59.868,Douglas fir ,stem,c19,1m,2 methods,blocs inner and outer samples,Domec and Gartner 2001
+-4,63.816,Douglas fir ,stem,c19,1m,2 methods,blocs inner and outer samples,Domec and Gartner 2001
+-4,55.263,Douglas fir ,stem,c19,1m,2 methods,blocs inner and outer samples,Domec and Gartner 2001
+-3.05,39.474,Douglas fir ,stem,c19,1m,2 methods,blocs inner and outer samples,Domec and Gartner 2001
+-3.05,42.763,Douglas fir ,stem,c19,1m,2 methods,blocs inner and outer samples,Domec and Gartner 2001
+-3,34.868,Douglas fir ,stem,c19,1m,2 methods,blocs inner and outer samples,Domec and Gartner 2001
+-2,26.316,Douglas fir ,stem,c19,1m,2 methods,blocs inner and outer samples,Domec and Gartner 2001
+-2.05,30.263,Douglas fir ,stem,c19,1m,2 methods,blocs inner and outer samples,Domec and Gartner 2001
+-2.05,22.368,Douglas fir ,stem,c19,1m,2 methods,blocs inner and outer samples,Domec and Gartner 2001
+-0.55,5.263,Douglas fir ,stem,c19,1m,2 methods,blocs inner and outer samples,Domec and Gartner 2001
+-0.45,7.237,Douglas fir ,stem,c19,1m,2 methods,blocs inner and outer samples,Domec and Gartner 2001
+-4.504672897,97.56097561,Douglas fir ,stem ,c20,clone162-L-stem,centrifuge technique,5,Dalla-Salda et al  2009
+-4,94.71544715,Douglas fir ,stem ,c20,clone162-L-stem,centrifuge technique,5,Dalla-Salda et al  2009
+-3.495327103,50.40650407,Douglas fir ,stem ,c20,clone162-L-stem,centrifuge technique,5,Dalla-Salda et al  2009
+-3.439252336,58.1300813,Douglas fir ,stem ,c20,clone162-L-stem,centrifuge technique,5,Dalla-Salda et al  2009
+-3.53271028,43.49593496,Douglas fir ,stem ,c20,clone162-L-stem,centrifuge technique,5,Dalla-Salda et al  2009
+-1.981308411,2.032520325,Douglas fir ,stem ,c20,clone162-L-stem,centrifuge technique,5,Dalla-Salda et al  2009
+-1.009345794,1.219512195,Douglas fir ,stem ,c20,clone162-L-stem,centrifuge technique,5,Dalla-Salda et al  2009
+-3.009345794,4.06504065,Douglas fir ,stem ,c20,clone162-L-stem,centrifuge technique,5,Dalla-Salda et al  2009
+-2.971962617,5.691056911,Douglas fir ,stem ,c20,clone162-L-stem,centrifuge technique,5,Dalla-Salda et al  2009
+-4.017241379,100,Douglas fir ,stem ,c21,clone1216-L-stem,centrifuge technique,5,Dalla-Salda et al  2009
+-3.5,98.8,Douglas fir ,stem ,c21,clone1216-L-stem,centrifuge technique,5,Dalla-Salda et al  2009
+-3,87.2,Douglas fir ,stem ,c21,clone1216-L-stem,centrifuge technique,5,Dalla-Salda et al  2009
+-2.965517241,90.4,Douglas fir ,stem ,c21,clone1216-L-stem,centrifuge technique,5,Dalla-Salda et al  2009
+-3,84.8,Douglas fir ,stem ,c21,clone1216-L-stem,centrifuge technique,5,Dalla-Salda et al  2009
+-2.482758621,73.2,Douglas fir ,stem ,c21,clone1216-L-stem,centrifuge technique,5,Dalla-Salda et al  2009
+-2.517241379,68.8,Douglas fir ,stem ,c21,clone1216-L-stem,centrifuge technique,5,Dalla-Salda et al  2009
+-2.517241379,65.2,Douglas fir ,stem ,c21,clone1216-L-stem,centrifuge technique,5,Dalla-Salda et al  2009
+-1.982758621,54.4,Douglas fir ,stem ,c21,clone1216-L-stem,centrifuge technique,5,Dalla-Salda et al  2009
+-2,49.6,Douglas fir ,stem ,c21,clone1216-L-stem,centrifuge technique,5,Dalla-Salda et al  2009
+-2.017241379,46.4,Douglas fir ,stem ,c21,clone1216-L-stem,centrifuge technique,5,Dalla-Salda et al  2009
+-1.517241379,29.6,Douglas fir ,stem ,c21,clone1216-L-stem,centrifuge technique,5,Dalla-Salda et al  2009
+-1.482758621,24.8,Douglas fir ,stem ,c21,clone1216-L-stem,centrifuge technique,5,Dalla-Salda et al  2009
+-1.534482759,20.4,Douglas fir ,stem ,c21,clone1216-L-stem,centrifuge technique,5,Dalla-Salda et al  2009
+-0.982758621,6.8,Douglas fir ,stem ,c21,clone1216-L-stem,centrifuge technique,5,Dalla-Salda et al  2009
+-0.5,0.4,Douglas fir ,stem ,c21,clone1216-L-stem,centrifuge technique,5,Dalla-Salda et al  2009
+-4.5,99.2,Douglas fir ,stem ,c22,clone1407-L-stem,centrifuge technique,5,Dalla-Salda et al  2009
+-4,95.6,Douglas fir ,stem ,c22,clone1407-L-stem,centrifuge technique,5,Dalla-Salda et al  2009
+-3.5,86,Douglas fir ,stem ,c22,clone1407-L-stem,centrifuge technique,5,Dalla-Salda et al  2009
+-3,71.2,Douglas fir ,stem ,c22,clone1407-L-stem,centrifuge technique,5,Dalla-Salda et al  2009
+-3.017241379,73.6,Douglas fir ,stem ,c22,clone1407-L-stem,centrifuge technique,5,Dalla-Salda et al  2009
+-3.017241379,68.4,Douglas fir ,stem ,c22,clone1407-L-stem,centrifuge technique,5,Dalla-Salda et al  2009
+-2.482758621,56.8,Douglas fir ,stem ,c22,clone1407-L-stem,centrifuge technique,5,Dalla-Salda et al  2009
+-2.482758621,62.4,Douglas fir ,stem ,c22,clone1407-L-stem,centrifuge technique,5,Dalla-Salda et al  2009
+-2.517241379,51.2,Douglas fir ,stem ,c22,clone1407-L-stem,centrifuge technique,5,Dalla-Salda et al  2009
+-2,36,Douglas fir ,stem ,c22,clone1407-L-stem,centrifuge technique,5,Dalla-Salda et al  2009
+-2,40.8,Douglas fir ,stem ,c22,clone1407-L-stem,centrifuge technique,5,Dalla-Salda et al  2009
+-2.017241379,27.2,Douglas fir ,stem ,c22,clone1407-L-stem,centrifuge technique,5,Dalla-Salda et al  2009
+-1.482758621,10,Douglas fir ,stem ,c22,clone1407-L-stem,centrifuge technique,5,Dalla-Salda et al  2009
+-1.482758621,16.4,Douglas fir ,stem ,c22,clone1407-L-stem,centrifuge technique,5,Dalla-Salda et al  2009
+-1.5,3.2,Douglas fir ,stem ,c22,clone1407-L-stem,centrifuge technique,5,Dalla-Salda et al  2009
+-1,0.8,Douglas fir ,stem ,c22,clone1407-L-stem,centrifuge technique,5,Dalla-Salda et al  2009
+-4.722689076,98.80952381,Douglas fir ,stem ,c23,clone162-C-stem,centrifuge technique,5,Dalla-Salda et al  2009
+-3.546218487,87.6984127,Douglas fir ,stem ,c23,clone162-C-stem,centrifuge technique,5,Dalla-Salda et al  2009
+-3.546218487,89.68253968,Douglas fir ,stem ,c23,clone162-C-stem,centrifuge technique,5,Dalla-Salda et al  2009
+-3.546218487,86.50793651,Douglas fir ,stem ,c23,clone162-C-stem,centrifuge technique,5,Dalla-Salda et al  2009
+-2.957983193,65.87301587,Douglas fir ,stem ,c23,clone162-C-stem,centrifuge technique,5,Dalla-Salda et al  2009
+-2.957983193,69.84126984,Douglas fir ,stem ,c23,clone162-C-stem,centrifuge technique,5,Dalla-Salda et al  2009
+-2.974789916,61.11111111,Douglas fir ,stem ,c23,clone162-C-stem,centrifuge technique,5,Dalla-Salda et al  2009
+-2.369747899,40.87301587,Douglas fir ,stem ,c23,clone162-C-stem,centrifuge technique,5,Dalla-Salda et al  2009
+-2.369747899,44.04761905,Douglas fir ,stem ,c23,clone162-C-stem,centrifuge technique,5,Dalla-Salda et al  2009
+-2.352941176,37.6984127,Douglas fir ,stem ,c23,clone162-C-stem,centrifuge technique,5,Dalla-Salda et al  2009
+-1.781512605,11.9047619,Douglas fir ,stem ,c23,clone162-C-stem,centrifuge technique,5,Dalla-Salda et al  2009
+-1.764705882,16.26984127,Douglas fir ,stem ,c23,clone162-C-stem,centrifuge technique,5,Dalla-Salda et al  2009
+-1.781512605,9.126984127,Douglas fir ,stem ,c23,clone162-C-stem,centrifuge technique,5,Dalla-Salda et al  2009
+-1.176470588,1.587301587,Douglas fir ,stem ,c23,clone162-C-stem,centrifuge technique,5,Dalla-Salda et al  2009
+-0.605042017,1.19047619,Douglas fir ,stem ,c23,clone162-C-stem,centrifuge technique,5,Dalla-Salda et al  2009
+-4.705882353,99.6031746,Douglas fir ,stem ,c24,clone1216-C-stem,centrifuge technique,5,Dalla-Salda et al  2009
+-4.134453782,99.20634921,Douglas fir ,stem ,c24,clone1216-C-stem,centrifuge technique,5,Dalla-Salda et al  2009
+-3.546218487,95.23809524,Douglas fir ,stem ,c24,clone1216-C-stem,centrifuge technique,5,Dalla-Salda et al  2009
+-2.941176471,78.57142857,Douglas fir ,stem ,c24,clone1216-C-stem,centrifuge technique,5,Dalla-Salda et al  2009
+-2.957983193,80.55555556,Douglas fir ,stem ,c24,clone1216-C-stem,centrifuge technique,5,Dalla-Salda et al  2009
+-2.420168067,48.41269841,Douglas fir ,stem ,c24,clone1216-C-stem,centrifuge technique,5,Dalla-Salda et al  2009
+-2.369747899,52.77777778,Douglas fir ,stem ,c24,clone1216-C-stem,centrifuge technique,5,Dalla-Salda et al  2009
+-2.369747899,43.65079365,Douglas fir ,stem ,c24,clone1216-C-stem,centrifuge technique,5,Dalla-Salda et al  2009
+-1.781512605,18.25396825,Douglas fir ,stem ,c24,clone1216-C-stem,centrifuge technique,5,Dalla-Salda et al  2009
+-1.781512605,23.80952381,Douglas fir ,stem ,c24,clone1216-C-stem,centrifuge technique,5,Dalla-Salda et al  2009
+-1.798319328,13.88888889,Douglas fir ,stem ,c24,clone1216-C-stem,centrifuge technique,5,Dalla-Salda et al  2009
+-0.588235294,1.19047619,Douglas fir ,stem ,c24,clone1216-C-stem,centrifuge technique,5,Dalla-Salda et al  2009
+-4.722689076,97.22222222,Douglas fir ,stem ,c25,clone1407-C-stem,centrifuge technique,5,Dalla-Salda et al  2009
+-4.100840336,91.66666667,Douglas fir ,stem ,c25,clone1407-C-stem,centrifuge technique,5,Dalla-Salda et al  2009
+-4.134453782,92.85714286,Douglas fir ,stem ,c25,clone1407-C-stem,centrifuge technique,5,Dalla-Salda et al  2009
+-4.117647059,90.07936508,Douglas fir ,stem ,c25,clone1407-C-stem,centrifuge technique,5,Dalla-Salda et al  2009
+-3.56302521,85.71428571,Douglas fir ,stem ,c25,clone1407-C-stem,centrifuge technique,5,Dalla-Salda et al  2009
+-3.56302521,82.93650794,Douglas fir ,stem ,c25,clone1407-C-stem,centrifuge technique,5,Dalla-Salda et al  2009
+-3.512605042,88.0952381,Douglas fir ,stem ,c25,clone1407-C-stem,centrifuge technique,5,Dalla-Salda et al  2009
+-2.941176471,71.03174603,Douglas fir ,stem ,c25,clone1407-C-stem,centrifuge technique,5,Dalla-Salda et al  2009
+-2.941176471,74.6031746,Douglas fir ,stem ,c25,clone1407-C-stem,centrifuge technique,5,Dalla-Salda et al  2009
+-2.941176471,67.06349206,Douglas fir ,stem ,c25,clone1407-C-stem,centrifuge technique,5,Dalla-Salda et al  2009
+-2.369747899,53.57142857,Douglas fir ,stem ,c25,clone1407-C-stem,centrifuge technique,5,Dalla-Salda et al  2009
+-2.336134454,59.12698413,Douglas fir ,stem ,c25,clone1407-C-stem,centrifuge technique,5,Dalla-Salda et al  2009
+-2.420168067,45.23809524,Douglas fir ,stem ,c25,clone1407-C-stem,centrifuge technique,5,Dalla-Salda et al  2009
+-1.781512605,26.58730159,Douglas fir ,stem ,c25,clone1407-C-stem,centrifuge technique,5,Dalla-Salda et al  2009
+-1.781512605,33.33333333,Douglas fir ,stem ,c25,clone1407-C-stem,centrifuge technique,5,Dalla-Salda et al  2009
+-1.81512605,21.42857143,Douglas fir ,stem ,c25,clone1407-C-stem,centrifuge technique,5,Dalla-Salda et al  2009
+-1.176470588,2.777777778,Douglas fir ,stem ,c25,clone1407-C-stem,centrifuge technique,5,Dalla-Salda et al  2009
+-4.504672897,97.56097561,Douglas fir ,stem ,c26,clone162-L-branch,centrifuge technique,5,Dalla-Salda et al  2009
+-4,94.71544715,Douglas fir ,stem ,c26,clone162-L-branch,centrifuge technique,5,Dalla-Salda et al  2009
+-3.495327103,50.40650407,Douglas fir ,stem ,c26,clone162-L-branch,centrifuge technique,5,Dalla-Salda et al  2009
+-3.439252336,58.1300813,Douglas fir ,stem ,c26,clone162-L-branch,centrifuge technique,5,Dalla-Salda et al  2009
+-3.53271028,43.49593496,Douglas fir ,stem ,c26,clone162-L-branch,centrifuge technique,5,Dalla-Salda et al  2009
+-1.981308411,2.032520325,Douglas fir ,stem ,c26,clone162-L-branch,centrifuge technique,5,Dalla-Salda et al  2009
+-1.009345794,1.219512195,Douglas fir ,stem ,c26,clone162-L-branch,centrifuge technique,5,Dalla-Salda et al  2009
+-3.009345794,4.06504065,Douglas fir ,stem ,c26,clone162-L-branch,centrifuge technique,5,Dalla-Salda et al  2009
+-2.971962617,5.691056911,Douglas fir ,stem ,c26,clone162-L-branch,centrifuge technique,5,Dalla-Salda et al  2009
+-4.523364486,97.56097561,Douglas fir ,stem ,c27,clone1216-L-branch,centrifuge technique,5,Dalla-Salda et al  2009
+-3.962616822,94.71544715,Douglas fir ,stem ,c27,clone1216-L-branch,centrifuge technique,5,Dalla-Salda et al  2009
+-3.495327103,85.36585366,Douglas fir ,stem ,c27,clone1216-L-branch,centrifuge technique,5,Dalla-Salda et al  2009
+-2.990654206,15.85365854,Douglas fir ,stem ,c27,clone1216-L-branch,centrifuge technique,5,Dalla-Salda et al  2009
+-2,0.81300813,Douglas fir ,stem ,c27,clone1216-L-branch,centrifuge technique,5,Dalla-Salda et al  2009
+-1.009345794,1.219512195,Douglas fir ,stem ,c27,clone1216-L-branch,centrifuge technique,5,Dalla-Salda et al  2009
+-4.485981308,95.93495935,Douglas fir ,stem ,c28,clone1407-L-branch,centrifuge technique,5,Dalla-Salda et al  2009
+-4,85.36585366,Douglas fir ,stem ,c28,clone1407-L-branch,centrifuge technique,5,Dalla-Salda et al  2009
+-3.981308411,88.61788618,Douglas fir ,stem ,c28,clone1407-L-branch,centrifuge technique,5,Dalla-Salda et al  2009
+-4.018691589,82.11382114,Douglas fir ,stem ,c28,clone1407-L-branch,centrifuge technique,5,Dalla-Salda et al  2009
+-3.495327103,26.42276423,Douglas fir ,stem ,c28,clone1407-L-branch,centrifuge technique,5,Dalla-Salda et al  2009
+-3.457943925,31.30081301,Douglas fir ,stem ,c28,clone1407-L-branch,centrifuge technique,5,Dalla-Salda et al  2009
+-3.53271028,22.35772358,Douglas fir ,stem ,c28,clone1407-L-branch,centrifuge technique,5,Dalla-Salda et al  2009
+-2.990654206,3.658536585,Douglas fir ,stem ,c28,clone1407-L-branch,centrifuge technique,5,Dalla-Salda et al  2009
+-2.990654206,6.504065041,Douglas fir ,stem ,c28,clone1407-L-branch,centrifuge technique,5,Dalla-Salda et al  2009
+-2,2.032520325,Douglas fir ,stem ,c28,clone1407-L-branch,centrifuge technique,5,Dalla-Salda et al  2009
+-1.009345794,2.032520325,Douglas fir ,stem ,c28,clone1407-L-branch,centrifuge technique,5,Dalla-Salda et al  2009
+-4.709090909,94.35483871,Douglas fir ,stem ,c29,clone162-C-branch,centrifuge technique,5,Dalla-Salda et al  2009
+-4.163636364,87.90322581,Douglas fir ,stem ,c29,clone162-C-branch,centrifuge technique,5,Dalla-Salda et al  2009
+-3.509090909,38.70967742,Douglas fir ,stem ,c29,clone162-C-branch,centrifuge technique,5,Dalla-Salda et al  2009
+-3.509090909,44.35483871,Douglas fir ,stem ,c29,clone162-C-branch,centrifuge technique,5,Dalla-Salda et al  2009
+-3.527272727,30.24193548,Douglas fir ,stem ,c29,clone162-C-branch,centrifuge technique,5,Dalla-Salda et al  2009
+-2.963636364,6.048387097,Douglas fir ,stem ,c29,clone162-C-branch,centrifuge technique,5,Dalla-Salda et al  2009
+-2.927272727,15.32258065,Douglas fir ,stem ,c29,clone162-C-branch,centrifuge technique,5,Dalla-Salda et al  2009
+-2.963636364,1.612903226,Douglas fir ,stem ,c29,clone162-C-branch,centrifuge technique,5,Dalla-Salda et al  2009
+-2.345454545,2.419354839,Douglas fir ,stem ,c29,clone162-C-branch,centrifuge technique,5,Dalla-Salda et al  2009
+-1.181818182,0.806451613,Douglas fir ,stem ,c29,clone162-C-branch,centrifuge technique,5,Dalla-Salda et al  2009
+-4.145454545,95.16129032,Douglas fir ,stem ,c30,clone1216-C-branch,centrifuge technique,5,Dalla-Salda et al  2009
+-3.527272727,68.14516129,Douglas fir ,stem ,c30,clone1216-C-branch,centrifuge technique,5,Dalla-Salda et al  2009
+-3.527272727,72.17741935,Douglas fir ,stem ,c30,clone1216-C-branch,centrifuge technique,5,Dalla-Salda et al  2009
+-3.527272727,64.91935484,Douglas fir ,stem ,c30,clone1216-C-branch,centrifuge technique,5,Dalla-Salda et al  2009
+-2.945454545,6.048387097,Douglas fir ,stem ,c30,clone1216-C-branch,centrifuge technique,5,Dalla-Salda et al  2009
+-2.345454545,2.822580645,Douglas fir ,stem ,c30,clone1216-C-branch,centrifuge technique,5,Dalla-Salda et al  2009
+-1.2,1.612903226,Douglas fir ,stem ,c30,clone1216-C-branch,centrifuge technique,5,Dalla-Salda et al  2009
+-4.690909091,87.09677419,Douglas fir ,stem ,c31,clone1407-C-branch,centrifuge technique,5,Dalla-Salda et al  2009
+-4.709090909,83.87096774,Douglas fir ,stem ,c31,clone1407-C-branch,centrifuge technique,5,Dalla-Salda et al  2009
+-4.672727273,79.03225806,Douglas fir ,stem ,c31,clone1407-C-branch,centrifuge technique,5,Dalla-Salda et al  2009
+-4.090909091,70.96774194,Douglas fir ,stem ,c31,clone1407-C-branch,centrifuge technique,5,Dalla-Salda et al  2009
+-4.127272727,76.20967742,Douglas fir ,stem ,c31,clone1407-C-branch,centrifuge technique,5,Dalla-Salda et al  2009
+-4.145454545,66.53225806,Douglas fir ,stem ,c31,clone1407-C-branch,centrifuge technique,5,Dalla-Salda et al  2009
+-3.545454545,29.03225806,Douglas fir ,stem ,c31,clone1407-C-branch,centrifuge technique,5,Dalla-Salda et al  2009
+-3.545454545,37.09677419,Douglas fir ,stem ,c31,clone1407-C-branch,centrifuge technique,5,Dalla-Salda et al  2009
+-3.545454545,23.79032258,Douglas fir ,stem ,c31,clone1407-C-branch,centrifuge technique,5,Dalla-Salda et al  2009
+-2.945454545,6.451612903,Douglas fir ,stem ,c31,clone1407-C-branch,centrifuge technique,5,Dalla-Salda et al  2009
+-2.909090909,13.30645161,Douglas fir ,stem ,c31,clone1407-C-branch,centrifuge technique,5,Dalla-Salda et al  2009
+-2.945454545,2.016129032,Douglas fir ,stem ,c31,clone1407-C-branch,centrifuge technique,5,Dalla-Salda et al  2009
+-2.345454545,2.822580645,Douglas fir ,stem ,c31,clone1407-C-branch,centrifuge technique,5,Dalla-Salda et al  2009
+-1.2,2.016129032,Douglas fir ,stem ,c31,clone1407-C-branch,centrifuge technique,5,Dalla-Salda et al  2009
+-3.963487523,95.78696124,Douglas fir ,root,c32,lab root,vacuum soaking method,7.3+-0.89,Gonzalez-Beneck et al 2022
+-2.961376862,93.49640004,Douglas fir ,root,c32,lab root,vacuum soaking method,7.3+-0.89,Gonzalez-Beneck et al 2022
+-1.962698491,84.08955518,Douglas fir ,root,c32,lab root,vacuum soaking method,7.3+-0.89,Gonzalez-Beneck et al 2022
+-1.970805799,87.28040241,Douglas fir ,root,c32,lab root,vacuum soaking method,7.3+-0.89,Gonzalez-Beneck et al 2022
+-1.964000395,81.39027518,Douglas fir ,root,c32,lab root,vacuum soaking method,7.3+-0.89,Gonzalez-Beneck et al 2022
+-1.459394418,67.60666732,Douglas fir ,root,c32,lab root,vacuum soaking method,7.3+-0.89,Gonzalez-Beneck et al 2022
+-1.48655686,71.2898708,Douglas fir ,root,c32,lab root,vacuum soaking method,7.3+-0.89,Gonzalez-Beneck et al 2022
+-1.480224874,64.4181872,Douglas fir ,root,c32,lab root,vacuum soaking method,7.3+-0.89,Gonzalez-Beneck et al 2022
+-0.941591873,61.18394319,Douglas fir ,root,c32,lab root,vacuum soaking method,7.3+-0.89,Gonzalez-Beneck et al 2022
+-0.988401223,64.13255745,Douglas fir ,root,c32,lab root,vacuum soaking method,7.3+-0.89,Gonzalez-Beneck et al 2022
+-0.972778381,56.52391755,Douglas fir ,root,c32,lab root,vacuum soaking method,7.3+-0.89,Gonzalez-Beneck et al 2022
+-0.460893579,37.83173883,Douglas fir ,root,c32,lab root,vacuum soaking method,7.3+-0.89,Gonzalez-Beneck et al 2022
+-0.498057008,40.77956406,Douglas fir ,root,c32,lab root,vacuum soaking method,7.3+-0.89,Gonzalez-Beneck et al 2022
+-0.48231581,33.41631325,Douglas fir ,root,c32,lab root,vacuum soaking method,7.3+-0.89,Gonzalez-Beneck et al 2022
+-0.015405859,1.476279712,Douglas fir ,root,c32,lab root,vacuum soaking method,7.3+-0.89,Gonzalez-Beneck et al 2022
+-3.966316659,99.87730061,Douglas fir ,stem,c35,lab stem,vacuum soaking method,2.0-6.0,Gonzalez-Beneck et al 2022
+-2.96690656,97.42331288,Douglas fir ,stem,c35,lab stem,vacuum soaking method,2.0-6.0,Gonzalez-Beneck et al 2022
+-1.979707409,84.17177914,Douglas fir ,stem,c35,lab stem,vacuum soaking method,2.0-6.0,Gonzalez-Beneck et al 2022
+-0.994042001,24.5398773,Douglas fir ,stem,c35,lab stem,vacuum soaking method,2.0-6.0,Gonzalez-Beneck et al 2022
+-0.038225578,0.736196319,Douglas fir ,stem,c35,lab stem,vacuum soaking method,2.0-6.0,Gonzalez-Beneck et al 2022

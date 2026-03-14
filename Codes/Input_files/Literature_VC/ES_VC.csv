@@ -1,0 +1,83 @@
+﻿PSY (Mpa),% Loss,Species,Type,Curve,Material,Method,Diameter (mm),Source
+-6.087794198,99.86206897,Engelmann spruce,stem,c1,high-elevation ,,,Clute et al 2021
+-4.574931582,73.65517241,Engelmann spruce,stem,c1,high-elevation ,,,Clute et al 2021
+-4.540339354,70.06896552,Engelmann spruce,stem,c1,high-elevation ,,,Clute et al 2021
+-4.567925561,64.82758621,Engelmann spruce,stem,c1,high-elevation ,,,Clute et al 2021
+-4.548330597,60.13793103,Engelmann spruce,stem,c1,high-elevation ,,,Clute et al 2021
+-4.538259442,47.44827586,Engelmann spruce,stem,c1,high-elevation ,,,Clute et al 2021
+-3.024521073,20.13793103,Engelmann spruce,stem,c1,high-elevation ,,,Clute et al 2021
+-3.037985769,17.10344828,Engelmann spruce,stem,c1,high-elevation ,,,Clute et al 2021
+-3.003174603,13.24137931,Engelmann spruce,stem,c1,high-elevation ,,,Clute et al 2021
+-3.031417625,8.827586207,Engelmann spruce,stem,c1,high-elevation ,,,Clute et al 2021
+-3.013793103,6.620689655,Engelmann spruce,stem,c1,high-elevation ,,,Clute et al 2021
+-1.530925014,18.20689655,Engelmann spruce,stem,c1,high-elevation ,,,Clute et al 2021
+-1.52785988,14.34482759,Engelmann spruce,stem,c1,high-elevation ,,,Clute et al 2021
+-1.525889436,11.86206897,Engelmann spruce,stem,c1,high-elevation ,,,Clute et al 2021
+-1.540667761,10.48275862,Engelmann spruce,stem,c1,high-elevation ,,,Clute et al 2021
+-1.470826492,2.482758621,Engelmann spruce,stem,c1,high-elevation ,,,Clute et al 2021
+-1.516256158,10,Engelmann spruce,stem,c1,high-elevation ,,,Clute et al 2021
+-0.098518519,3.703703704,Engelmann spruce,root,c2,downslope_early_season,,,Beverly 2020 (thesis)
+-0.537530864,6.172839506,Engelmann spruce,root,c2,downslope_early_season,,,Beverly 2020 (thesis)
+-0.816049383,9.87654321,Engelmann spruce,root,c2,downslope_early_season,,,Beverly 2020 (thesis)
+-0.771604938,20.98765432,Engelmann spruce,root,c2,downslope_early_season,,,Beverly 2020 (thesis)
+-1.028148148,29.62962963,Engelmann spruce,root,c2,downslope_early_season,,,Beverly 2020 (thesis)
+-1.270123457,24.69135802,Engelmann spruce,root,c2,downslope_early_season,,,Beverly 2020 (thesis)
+-1.485185185,37.03703704,Engelmann spruce,root,c2,downslope_early_season,,,Beverly 2020 (thesis)
+-1.700740741,48.14814815,Engelmann spruce,root,c2,downslope_early_season,,,Beverly 2020 (thesis)
+-1.895802469,60.49382716,Engelmann spruce,root,c2,downslope_early_season,,,Beverly 2020 (thesis)
+-1.952345679,69.13580247,Engelmann spruce,root,c2,downslope_early_season,,,Beverly 2020 (thesis)
+-2.466419753,83.95061728,Engelmann spruce,root,c2,downslope_early_season,,,Beverly 2020 (thesis)
+-2.742962963,92.59259259,Engelmann spruce,root,c2,downslope_early_season,,,Beverly 2020 (thesis)
+-3.460493827,98.7654321,Engelmann spruce,root,c2,downslope_early_season,,,Beverly 2020 (thesis)
+-4.020987654,97.5308642,Engelmann spruce,root,c2,downslope_early_season,,,Beverly 2020 (thesis)
+-4.840493827,98.7654321,Engelmann spruce,root,c2,downslope_early_season,,,Beverly 2020 (thesis)
+-0.018518519,3.703703704,Engelmann spruce,root,c3,upslope_early season,,,Beverly 2020 (thesis)
+-0.354567901,13.58024691,Engelmann spruce,root,c3,upslope_early season,,,Beverly 2020 (thesis)
+-0.507654321,30.86419753,Engelmann spruce,root,c3,upslope_early season,,,Beverly 2020 (thesis)
+-0.820246914,49.38271605,Engelmann spruce,root,c3,upslope_early season,,,Beverly 2020 (thesis)
+-1.059753086,50.61728395,Engelmann spruce,root,c3,upslope_early season,,,Beverly 2020 (thesis)
+-1.33382716,65.43209877,Engelmann spruce,root,c3,upslope_early season,,,Beverly 2020 (thesis)
+-1.732839506,67.90123457,Engelmann spruce,root,c3,upslope_early season,,,Beverly 2020 (thesis)
+-1.706419753,83.95061728,Engelmann spruce,root,c3,upslope_early season,,,Beverly 2020 (thesis)
+-2.244938272,87.65432099,Engelmann spruce,root,c3,upslope_early season,,,Beverly 2020 (thesis)
+-2.762962963,92.59259259,Engelmann spruce,root,c3,upslope_early season,,,Beverly 2020 (thesis)
+-3.381481481,96.2962963,Engelmann spruce,root,c3,upslope_early season,,,Beverly 2020 (thesis)
+-4.541481481,96.2962963,Engelmann spruce,root,c3,upslope_early season,,,Beverly 2020 (thesis)
+-2.488888889,77.77777778,Engelmann spruce,root,c3,upslope_early season,,,Beverly 2020 (thesis)
+-2.194814815,62.96296296,Engelmann spruce,root,c3,upslope_early season,,,Beverly 2020 (thesis)
+-1.979753086,50.61728395,Engelmann spruce,root,c3,upslope_early season,,,Beverly 2020 (thesis)
+-3.963950617,90.12345679,Engelmann spruce,root,c3,upslope_early season,,,Beverly 2020 (thesis)
+-1.299753086,50.61728395,Engelmann spruce,root,c3,upslope_early season,,,Beverly 2020 (thesis)
+-0.23834489,4.938271605,Engelmann spruce,root,c4,downslope_late_season,,,Beverly 2020 (thesis)
+-0.951575624,9.87654321,Engelmann spruce,root,c4,downslope_late_season,,,Beverly 2020 (thesis)
+-1.482157957,14.81481481,Engelmann spruce,root,c4,downslope_late_season,,,Beverly 2020 (thesis)
+-1.505158126,40.74074074,Engelmann spruce,root,c4,downslope_late_season,,,Beverly 2020 (thesis)
+-1.979818479,39.50617284,Engelmann spruce,root,c4,downslope_late_season,,,Beverly 2020 (thesis)
+-2.01274029,19.75308642,Engelmann spruce,root,c4,downslope_late_season,,,Beverly 2020 (thesis)
+-2.453576865,33.33333333,Engelmann spruce,root,c4,downslope_late_season,,,Beverly 2020 (thesis)
+-2.493037939,49.38271605,Engelmann spruce,root,c4,downslope_late_season,,,Beverly 2020 (thesis)
+-2.821805062,49.38271605,Engelmann spruce,root,c4,downslope_late_season,,,Beverly 2020 (thesis)
+-3.152601612,60.49382716,Engelmann spruce,root,c4,downslope_late_season,,,Beverly 2020 (thesis)
+-3.519702351,70.37037037,Engelmann spruce,root,c4,downslope_late_season,,,Beverly 2020 (thesis)
+-3.977901798,79.01234568,Engelmann spruce,root,c4,downslope_late_season,,,Beverly 2020 (thesis)
+-4.25300186,85.18518519,Engelmann spruce,root,c4,downslope_late_season,,,Beverly 2020 (thesis)
+-4.857320029,93.82716049,Engelmann spruce,root,c4,downslope_late_season,,,Beverly 2020 (thesis)
+-5.423981059,96.2962963,Engelmann spruce,root,c4,downslope_late_season,,,Beverly 2020 (thesis)
+-5.826033035,97.5308642,Engelmann spruce,root,c4,downslope_late_season,,,Beverly 2020 (thesis)
+-4.983144484,82.71604938,Engelmann spruce,root,c4,downslope_late_season,,,Beverly 2020 (thesis)
+-2.983933705,37.03703704,Engelmann spruce,root,c4,downslope_late_season,,,Beverly 2020 (thesis)
+-2.953041321,67.90123457,Engelmann spruce,root,c4,downslope_late_season,,,Beverly 2020 (thesis)
+-0.494052652,4.938271605,Engelmann spruce,root,c4,downslope_late_season,,,Beverly 2020 (thesis)
+-0.055696488,4.938271605,Engelmann spruce,root,c5,upslope_late_season,,,Beverly 2020 (thesis)
+-0.351767292,25.92592593,Engelmann spruce,root,c5,upslope_late_season,,,Beverly 2020 (thesis)
+-0.484356503,51.85185185,Engelmann spruce,root,c5,upslope_late_season,,,Beverly 2020 (thesis)
+-1.015840803,61.72839506,Engelmann spruce,root,c5,upslope_late_season,,,Beverly 2020 (thesis)
+-1.439765488,82.71604938,Engelmann spruce,root,c5,upslope_late_season,,,Beverly 2020 (thesis)
+-2.024691358,85.18518519,Engelmann spruce,root,c5,upslope_late_season,,,Beverly 2020 (thesis)
+-1.474265742,71.60493827,Engelmann spruce,root,c5,upslope_late_season,,,Beverly 2020 (thesis)
+-2.593156322,97.5308642,Engelmann spruce,root,c5,upslope_late_season,,,Beverly 2020 (thesis)
+-3.305485089,97.5308642,Engelmann spruce,root,c5,upslope_late_season,,,Beverly 2020 (thesis)
+-3.908450307,98.7654321,Engelmann spruce,root,c5,upslope_late_season,,,Beverly 2020 (thesis)
+-4.71412729,100,Engelmann spruce,root,c5,upslope_late_season,,,Beverly 2020 (thesis)
+-5.313408873,98.11358025,Engelmann spruce,root,c5,upslope_late_season,,,Beverly 2020 (thesis)
+-5.78761283,100,Engelmann spruce,root,c5,upslope_late_season,,,Beverly 2020 (thesis)
